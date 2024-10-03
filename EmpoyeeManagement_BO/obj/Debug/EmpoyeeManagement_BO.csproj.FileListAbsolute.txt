@@ -1,0 +1,6 @@
+C:\Users\Huzaifa Nazeer\source\repos\EmployeeManagement\EmpoyeeManagement_BO\bin\Debug\EmpoyeeManagement_BO.dll
+C:\Users\Huzaifa Nazeer\source\repos\EmployeeManagement\EmpoyeeManagement_BO\bin\Debug\EmpoyeeManagement_BO.pdb
+C:\Users\Huzaifa Nazeer\source\repos\EmployeeManagement\EmpoyeeManagement_BO\obj\Debug\EmpoyeeManagement_BO.csproj.AssemblyReference.cache
+C:\Users\Huzaifa Nazeer\source\repos\EmployeeManagement\EmpoyeeManagement_BO\obj\Debug\EmpoyeeManagement_BO.csproj.CoreCompileInputs.cache
+C:\Users\Huzaifa Nazeer\source\repos\EmployeeManagement\EmpoyeeManagement_BO\obj\Debug\EmpoyeeManagement_BO.dll
+C:\Users\Huzaifa Nazeer\source\repos\EmployeeManagement\EmpoyeeManagement_BO\obj\Debug\EmpoyeeManagement_BO.pdb
